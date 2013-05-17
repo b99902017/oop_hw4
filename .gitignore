@@ -1,10 +1,4 @@
-[Bb]in
-[Nn]tu
-
-.{!git}*
-
-./**/*.class
-
+.*
 *.7z
 *.gz
 *.iso
